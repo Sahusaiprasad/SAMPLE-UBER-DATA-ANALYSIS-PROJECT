@@ -1,12 +1,13 @@
-# Uber Ride Data Analysis Dashboard
+# Sample Uber Ride Data Analysis Dashboard
 
 ## 📌 Overview
 This project analyzes Uber ride data using Python, SQL, and Tableau to generate business insights.
 
 ## 🛠 Tools Used
-- Python (Pandas)
+- Python (Pandas),(Numpy)
 - SQL
 - Tableau
+- excel
 
 ## 📊 Key Insights
 - Total trips and revenue analysis
